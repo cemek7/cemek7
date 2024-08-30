@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **NEXTJS,NODEJS, ELECTRON, DJANGO**
 
-- 👯 I’m looking to collaborate on **my cybersecurity certs**
+- 👯 I’m looking to collaborate on **CISSP, OSCP**
 
 - 💬 Ask me about **react, cybersec,**
 
-- 📫 How to reach me **mailto:ccemeka97@gmail.com**
+- 📫 How to reach me **ccemeka97@gmail.com**
 
 - ⚡ Fun fact **i am quite funny when i want to**
 
