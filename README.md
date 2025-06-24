@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christopher Chiemeka Ozougwu</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate Full-Stack Developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cemek7&label=Profile%20views&color=0e75b6&style=flat" alt="cemek7" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **a B2B merchant payment solution**
 
-- 🌱 I’m currently learning **NEXTJS,NODEJS, ELECTRON, DJANGO**
+- 🌱 I’m currently learning **NEXTJS,NODEJS, DJANGO**
 
 - 👯 I’m looking to collaborate on **CISSP, OSCP**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ccemeka97@gmail.com**
 
-- ⚡ Fun fact **i am quite funny when i want to**
+- ⚡ Fun fact **i can't see with my eyes closed**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
